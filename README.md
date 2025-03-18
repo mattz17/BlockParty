@@ -1,5 +1,6 @@
-# BlockParty
+![blockparty](https://github.com/user-attachments/assets/84570eb6-10bd-47b2-96fc-a20f5f6c9288)
 
+# BlockParty
 BlockParty is a 2-player Python game using the PyGame module whereby strategy is used to achieve more territory than the opposing player.
 
 ## Table of Contents
